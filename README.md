@@ -1,7 +1,7 @@
 # online-phonebook
-a little side project in c. I build a phonebook using hash table data structer. this project Emphasizes work with dynamic memory alloction and using the key maping algorithm of hasing table. 
+A little side project in c. I build a phonebook using hash table data structer. this project Emphasizes work with dynamic memory alloction and using the key maping algorithm of hasing table. 
 
-heres a little vidoe of the program 
+heres a little video of the program 
 
 
 
