@@ -210,7 +210,7 @@ int main() {
 		printf("---To remove a person form the phonebook please press 3----\n");
 		printf("---To print the current phonebook please enter 4-----\n");
 		printf("----To search a number please enter 5--------\n");
-		printf("------------for exite please press 0-------\n");
+		printf("------------for exit please press 0-------\n");
 		scanf("%d", &buffer);
 		fgetc(stdin);
 		if (buffer == 0 || buffer == 1 || buffer == 2 || buffer == 3 || buffer == 4||buffer==5) {
